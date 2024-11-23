@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-#**Hello, My name is Vince**
+# **Hello, My name is Vince**
 ## this is a information about myself and also serve as our activity in app-dev
 
 1. Haikyuu
