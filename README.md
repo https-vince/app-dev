@@ -4,7 +4,14 @@ My first repository
 # **Hello, My name is Vince**
 ## this is a information about myself and also serve as our activity in app-dev
 
-### this is my top 3 anime series
+
+{
+  "firstName": "Vince",
+  "lastName": "Pogi",
+  "age": 21
+}
+
+### this is my top 3 anime series:
 1. Haikyuu
 2. Demon Slayer
 3. Jujutsu Kaisen
